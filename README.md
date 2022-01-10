@@ -54,6 +54,8 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 ### Labs
 
 * [Lab00_ProgrammingEnvironment.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab00.ipynb)
+* [Lab01_Taking Orders.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab01.ipynb)
+
 
 ### Class Companions
 
