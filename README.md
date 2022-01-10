@@ -28,7 +28,7 @@ The notebooks that we provide are “final copies” that can’t be modified—
 3. Work on your copy of the notebook as needed
 4. When you are ready to submit the notebook, first choose _Edit > Clear all outputs_ to reset all of the notebook’s code blocks
 5. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook
-6. Make sure to set your _1010-lab-notebooks_ Repository as the destination of the file to save
+6. Make sure to set your _lab-notebooks_ Repository as the destination of the file to save
 7. Choose `main` as the Branch into which to save
 8. Provide a _Commit message_—describe what’s different in your version of the notebook
 
