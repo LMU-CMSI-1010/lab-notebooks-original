@@ -55,6 +55,9 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 
 * [Lab00_ProgrammingEnvironment.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab00.ipynb)
 * [Lab01_Taking Orders.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab01.ipynb)
+* [Lab02_Sorting Hogwarts.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab02.ipynb)
+* [Lab03_Heat-Check.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab03.ipynb)
+* [Lab04_Take a Walk.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab04.ipynb)
 
 
 ### Class Companions
