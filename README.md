@@ -58,8 +58,13 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab02_Sorting Hogwarts.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab02.ipynb)
 * [Lab03_Heat-Check.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab03.ipynb)
 * [Lab04_Take a Walk.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab04.ipynb)
-* [Lab05_Walk_with_Purpose.ipynb](https://github.com/LMU-CMSI-1010/lab-notebooks-original/blob/main/Lab05.ipynb)
-* [Lab06_Mixig_Strings.ipynb](https://github.com/LMU-CMSI-1010/lab-notebooks-original/blob/main/Lab06.ipynb)
+* [Lab05_Walk_with_Purpose.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab05.ipynb)
+* [Lab06_Mixig_Strings.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab06.ipynb)
+* [Lab07_Making_a_List.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab07.ipynb)
+* [Lab08_Text_Similarity.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab08.ipynb)
+* [Lab09_Choosing_Data_Structures.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab09.ipynb)
+* [Lab10_Introduction_to_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab10.ipynb)
+* [Lab11_Recursion_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab11.ipynb)
 
 
 ### Class Companions
