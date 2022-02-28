@@ -65,6 +65,13 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab09_Choosing_Data_Structures.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab09.ipynb)
 * [Lab10_Introduction_to_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab10.ipynb)
 * [Lab11_Recursion_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab11.ipynb)
+* [Lab12_Turtle_Fractiles.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab12.ipynb)
+* [Lab13_Making _Classes.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab13.ipynb)
+* [Lab14_Rock_Paper_Scissors.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab14.ipynb)
+* [Lab15_Histogram.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab15.ipynb)
+* [Lab16_Virtual_Darts.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab16.ipynb)
+* [Lab17_Building_Skateboard_Ramp.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab17.ipynb)
+
 
 
 ### Class Companions
