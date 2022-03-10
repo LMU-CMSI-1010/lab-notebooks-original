@@ -64,7 +64,7 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab08_Text_Similarity.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab08.ipynb)
 * [Lab09_Choosing_Data_Structures.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab09.ipynb)
 * [Lab10_Introduction_to_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab10.ipynb)
-* [Lab11_Turtle_Fractales.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab11.ipynb)
+* [Lab11_Turtle_Fractals.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab11.ipynb)
 * [Lab12_Recursion_Recursion.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab12.ipynb)
 * [Lab13_Making _Classes.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab13.ipynb)
 * [Lab14_Rock_Paper_Scissors.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab14.ipynb)
