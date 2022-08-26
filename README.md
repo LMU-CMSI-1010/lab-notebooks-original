@@ -1,4 +1,4 @@
-**CMSI 1010** Computer Programming & Laboratory, Spring 2022
+**CMSI 1010** Computer Programming & Laboratory, Fall 2022
 
 # Lab Notebook Original Files
 
@@ -69,8 +69,6 @@ Click on these links to open them in Colab. Remember, you can’t modify these o
 * [Lab13_Making _Classes.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab13.ipynb)
 * [Lab14_Rock_Paper_Scissors.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab14.ipynb)
 * [Lab15_Histogram.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab15.ipynb)
-* [Lab16_Virtual_Darts.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab16.ipynb)
-* [Lab17_Building_Skateboard_Ramp.ipynb](https://colab.research.google.com/github/lmu-cmsi-1010/lab-notebooks-original/blob/main/Lab17.ipynb)
 
 
 
