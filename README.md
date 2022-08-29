@@ -12,7 +12,7 @@ In order to work with the notebooks that we will share with you, you will need t
 2. A GitHub account
 3. Your _lab-notebooks_ repository for the course—click on this link to set it up: https://classroom.github.com/a/lxEHqdps
 
-**Important:** Make sure to deactivate popup windows for colab.research.google.com—it needs those to occasionally ask your permission to access GitHub
+**Important:** Make sure to activate popup windows for colab.research.google.com—it needs those to occasionally ask your permission to access GitHub
 
 ## Workflow
 
