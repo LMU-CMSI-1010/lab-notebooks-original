@@ -1,7 +1,7 @@
 **CMSI 1010** Computer Programming & Laboratory
 
 # Lab 15 - Pygame
-**Due 11:59pm PT 04/18**
+**Due 11:59pm PT 04/15**
 
 
 Creating games through programming is both rewarding and educational. Game development involves logic, math, physics, AI, and more, all converging to form enjoyable experiences. In this lab, you will learn the basics of how PyGame works and get a basic implementation working. 
