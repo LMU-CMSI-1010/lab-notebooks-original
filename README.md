@@ -7,30 +7,30 @@ Hi! This repository stores “original” versions of our course’s lab noteboo
 ## Preparation
 [Google Colaboratory](http://colab.research.google.com/) (or just Google Colab for short) is our course’s chosen mechanism for running Python [Jupyter notebooks](https://jupyter.org). Notebooks provide a way to learn about and interact with Python code, without worrying about the operational details involved with computer programming. (you’ll get enough of those in the other assignments!)
 
-In order to work with the notebooks that we will share with you, you will need the following:
-1. A Google account to follow these instructions successfully (you don’t need to tell us what it is—your Google Drive will serve as your workspace)
-2. A GitHub account
-3. Your _lab-notebooks_ repository for the course—click on this link to set it up: [https://classroom.github.com/a/Pm6rRywK](https://classroom.github.com/a/Pm6rRywK)
+In order to work with the notebooks that we will share with you, you will need a Google account to follow these instructions successfully (you don’t need to tell us what it is—your Google Drive will serve as your workspace).
+<!--2. A GitHub account (sign up at [github.com](https://github.com/))
+3. Your _lab-notebooks_ repository for the course—click on this link to set it up: [https://classroom.github.com/a/Pm6rRywK](https://classroom.github.com/a/Pm6rRywK)-->
 
 **Important:** Make sure to activate popup windows for colab.research.google.com—it needs those to occasionally ask your permission to access GitHub
 
 ## Workflow
 
-### Overview
+<!--### Overview
 The notebooks that we provide are “final copies” that can’t be modified—that way you can get back to them fresh at any time.
 * To make changes to them, you will make a copy of the notebook in Google Drive
 * To submit your notebook, place a copy of your worked-on notebook in the _1010-lab-notebooks_ repository on GitHub
 * You may copy your notebook to GitHub as frequently as you like
 
-### Details
+### Details-->
 1. Click on our shared notebook link to open it in Colab
 2. From the Colab menu, choose _File > Save a copy in Drive_ to create your own _private copy_ of the notebook
-3. Work on your copy of the notebook as needed
-4. When you are ready to submit the notebook, first choose _Edit > Clear all outputs_ to reset all of the notebook’s code blocks
-5. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook
-6. Make sure to set your _LMU-CMSI-1010/lab-notebooks-YOURID_ Repository as the destination of the file to save
-7. Choose `main` as the Branch into which to save
-8. Provide a _Commit message_—describe what’s different in your version of the notebook
+3. Work on your copy of the notebook as needed. Be sure to File -> Save often. You can always find your latest changes in My Drive -> Colab Notebooks.
+4. Your notebook will be graded in class on the day it is due
+<!--5. When you are ready to submit the notebook, first choose _Edit > Clear all outputs_ to reset all of the notebook’s code blocks
+6. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook
+7. Make sure to set your _LMU-CMSI-1010/lab-notebooks-YOURID_ Repository as the destination of the file to save
+8. Choose `main` as the Branch into which to save
+9. Provide a _Commit message_—describe what’s different in your version of the notebook
 
 You may repeat the last four steps as frequently as needed in case you want to revise your GitHub copy. Do your work on the _Google Drive copy_ but submit as needed to GitHub.
 
@@ -39,17 +39,18 @@ Every time you save a copy to GitHub, you will add a _commit_ to that file. This
 Here’s an example:
 
 <img width="822" alt="image" src="https://user-images.githubusercontent.com/382242/130737314-f75b9a84-3062-450d-b8af-3377e57b9544.png">
-
+-->
 When running our notebooks, Colab may warn you that the code isn’t safe:
 
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/382242/130734641-040caa6b-b76f-4c67-9c61-c4f940c2a6c4.png">
+
 
 For _the notebooks that we share with you_, go ahead and click on _Run anyway_. We won’t share any harmful notebooks with you 🤗
 
 For all other notebooks that you might try from the Internet, it’s a good habit to verify that the source/author of the notebook can be relied upon. And that’s why Colab checks with you first!
 
 ## The Notebooks!
-Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
+Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. <!--When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.-->
 
 ### Labs
 
