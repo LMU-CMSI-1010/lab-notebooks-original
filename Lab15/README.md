@@ -20,7 +20,7 @@ On Windows, search for "Command Prompt" or press Win + R and type cmd then press
 In the terminal or command prompt, type the following command and press Enter to install Pygame using pip (Python's package manager):
 
 ```
-pip install pygame
+pip install pygame-ce
 
 ```
 ### Step 3: Verify Installation
@@ -53,7 +53,6 @@ Import the Pygame library and other necessary libraries and initialize it:
 ```
 import pygame
 import random
-import time
 
 pygame.init()
 ```
@@ -62,7 +61,7 @@ Then set up the display window:
 ```
 display_width, display_height = 800, 600
 window = pygame.display.set_mode((display_width, display_height))
-pygame.display.set_caption('A bit Racey')
+pygame.display.set_caption("A bit Racey")
 clock = pygame.time.Clock()
 ```
 
@@ -71,7 +70,7 @@ clock = pygame.time.Clock()
 Load the car image (you can find these images in the same directory or you can find other images to use online).
 
 ```
-carImg = pygame.image.load('racecar.png')
+car_img = pygame.image.load("racecar.png")
 ```
 
 Then initialize car and obstacle positions:
@@ -80,8 +79,8 @@ Then initialize car and obstacle positions:
 car_x = display_width  * 0.45
 car_y = display_height * 0.8
 
-obstacle_startx = random.randrange(0,display_width)
-obstacle_starty = -600
+obstacle_x = random.randrange(0, display_width)
+obstacle_y = -600
 ```
 
 ### Step 4: Main Game Loop
